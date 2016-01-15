@@ -1,0 +1,20 @@
+{
+  "name": "shim-a-window",
+  "description": "Create a shim window object in the global scope if not already exist",
+  "version": "1.0.0",
+  "author": {
+    "name": "Wen Chang",
+    "email": "wchang28@hotmail.com"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wchang28/shim-a-window.git"
+  },
+  "dependencies": {
+	"window-shim": "^1.0.0"
+  }
+}
