@@ -1,3 +1,3 @@
 (function() {
-	if (!global.window)	global.window = require('window-shim');
+	if (!global.window) global.window = require('window-shim');
 }).apply(this);
